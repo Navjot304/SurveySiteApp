@@ -1,0 +1,25 @@
+{
+  "name": "surveysite",
+  "version": "1.0.0",
+  "description": "Survey Web App",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "get",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navjot304/SurveySiteApp.git"
+  },
+  "keywords": [
+    "router"
+  ],
+  "author": "Navjot Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navjot304/SurveySiteApp/issues"
+  },
+  "homepage": "https://github.com/Navjot304/SurveySiteApp#readme"
+}
